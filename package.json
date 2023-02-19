@@ -1,16 +1,17 @@
 {
-  "name": "consola-app",
+  "name": "04-tareas-hacer",
   "version": "1.0.0",
-  "description": "practica de node curso Udemy",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "margaritasing",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
-    "inquirer": "^9.1.4"
+    "inquirer": "^7.3.3",
+    "uuid": "^8.3.2"
   }
 }
