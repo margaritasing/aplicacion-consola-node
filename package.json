@@ -1,7 +1,7 @@
 {
-  "name": "consola-en-node",
+  "name": "consola-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "practica de node curso Udemy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,7 @@
   "author": "margaritasing",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "inquirer": "^9.1.4"
   }
 }
